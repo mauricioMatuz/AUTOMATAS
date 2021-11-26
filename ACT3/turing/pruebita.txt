@@ -1,0 +1,10 @@
+S AX YB a AS SA
+A b AX YB a AS SA
+X SA
+B b
+Y a
+aaaaaa
+ababa
+ababab
+cccccc
+aaaacaa

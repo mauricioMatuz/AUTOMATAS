@@ -1,0 +1,5 @@
+Q = {q0,q1,q2,q3,q4,q5}
+S = {@,g,m,a,i,l,y,a,h,o,o,h,o,t,m,a,i,l,o,u,t,l,o,o,k}
+Q0 = q0
+F = {q2,q3,q4,q5}
+R = {(q0,@,q1),(q1,g,q2),(q2,g,q2),(q2,m,q2),(q2,a,q2),(q2,i,q2),(q2,l,q2),(q1,h,q3),(q3,o,q3),(q3,t,q3),(q3,m,q3),(q3,a,q3),(q3,i,q3),(q3,l,q3),(q1,o,q4),(q4,u,q4),(q4,t,q4),(q4,l,q4),(q4,o,q4),(q4,o,q4),(q4,k,q4),(q1,y,q5),(q5,a,q5),(q5,h,q5),(q5,o,q5),(q5,o,q5)}
